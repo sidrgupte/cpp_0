@@ -1,6 +1,6 @@
 #include <iostream>
 
-int addNums(int, int); // it is a best practice to keep the parameter names in declatiotions
+int addNums(int, int); // it is a best practice to keep the parameter names in declarations
 
 int main()
 {
